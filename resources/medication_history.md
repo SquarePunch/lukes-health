@@ -1,6 +1,7 @@
 # Medication History
 
 ## Escitalopram (SSRI)
+
 - **Dosage:** 10mg/day
 - **Usage Timeline:**
   - Started ~Mid 2025 following a depressive episode/panic attacks.
@@ -9,6 +10,7 @@
 - **Side Effects:** Usually causes tiredness around 23:00.
 
 ## Kratom
+
 - **Dosage:** historically up to 10-20g/day.
 - **Usage Timeline:**
   - Abuse started in 2022. Typical pattern: ~6 months on, 1-2 months off.
@@ -19,6 +21,7 @@
   - Sober since ~July 10, 2026.
 
 ## Cannabis
+
 - **Dosage:** Moderate (avg. 0.25g/day).
 - **Usage Timeline:**
   - Abuse started in 2002, with regular breaks.
@@ -27,6 +30,7 @@
   - Currently sober.
 
 ## Tobacco
+
 - **Usage Timeline:**
   - Smoked a pack of cigarettes a day from age 16 to 38.
   - Stopped for 2 years.
@@ -34,4 +38,5 @@
   - Currently clean for 1 year (as of 2026).
 
 ## Supplements
+
 - **Creatine:** 2-3g/day, started ~July 14, 2026 to boost energy.
