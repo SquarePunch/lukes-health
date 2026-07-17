@@ -40,3 +40,9 @@
 ## Supplements
 
 - **Creatine:** 2-3g/day, started ~July 14, 2026 to boost energy.
+- **Oleovit D3 (Vitamin D3):** 35 drops weekly, prescribed in January 2022 due to Vitamin D deficiency.
+
+## Other Prescribed Medications (As Needed)
+
+- **Valaciclovir:** 500mg (1 tablet morning, 1 evening) as needed (prescribed in January 2022 for recurrent Herpes genitalis).
+
