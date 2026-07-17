@@ -20,9 +20,10 @@
 - **Sleep:** Recent severe insomnia (e.g., unable to sleep until 5 AM on July 16, despite normally getting tired around 23:00 on SSRIs). *Note: Insomnia is usually very rare.*
 - **Digestion:** Recent bouts of diarrhea/stomach distress (mid-July 2026).
 - **Energy:** Significant exhaustion; difficulty getting out of bed before noon recently.
-- **Blood Panel (April 2026):** Generally fine, aside from slightly high cholesterol (notable given paternal family history).
+- **Blood Panel (April 2026):** Generally fine, aside from slightly high cholesterol (spiked to 300 due to high intake of sweets at the time, which have since been almost completely cut out). Notable given paternal family history.
 
 ## Therapy & Preventative Care
 
 - **Therapy Stance:** Averse to traditional psychotherapy primarily due to financial cost and a preference for talking to people who know them intimately. The individual prefers interactions where friends/community actively challenge bad behaviors rather than simply offering comfort.
 - **Alternative Approaches:** Engages in discussions about psychology within a community setting, which includes the occasional, therapeutic use of mushrooms and LSD. Physical therapy (e.g., for back/shoulder) is also somewhat limited by financial concerns.
+- **Ergonomics:** Preventative care for spine/nerves includes using a standing desk and a vertical mouse.
