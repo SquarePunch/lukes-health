@@ -45,4 +45,3 @@
 ## Other Prescribed Medications (As Needed)
 
 - **Valaciclovir:** 500mg (1 tablet morning, 1 evening) as needed (prescribed in January 2022 for recurrent Herpes genitalis).
-
