@@ -26,5 +26,12 @@
   - 1-week relapse ~May/June 2026.
   - Currently sober.
 
+## Tobacco
+- **Usage Timeline:**
+  - Smoked a pack of cigarettes a day from age 16 to 38.
+  - Stopped for 2 years.
+  - Smoked for 2 years again.
+  - Currently clean for 1 year (as of 2026).
+
 ## Supplements
 - **Creatine:** 2-3g/day, started ~July 14, 2026 to boost energy.

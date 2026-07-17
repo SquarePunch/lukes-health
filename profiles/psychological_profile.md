@@ -20,5 +20,6 @@
 - **Current State (July 2026):** Morning anxiety returned. Feeling exhausted but not entirely depressed. Mood typically improves by noon.
 
 ## Coping Mechanisms
-- historically relied on Cannabis and Kratom for stress/anxiety relief and confidence.
+- Historically relied on Cannabis and Kratom for stress/anxiety relief and confidence.
+  - **Kratom Note:** Makes the user feel the way they want to be (not overthinking, always in a good mood, confident, energetic, and able to do stuff all day). However, on longer episodes, it causes nervousness, feeling "too pushy", and entering an overdrive state.
 - Masturbation (usually daily, often combined with weed cigarettes or Kratom; on Kratom this could be excessive for hours, usually stops when stopping drugs).
