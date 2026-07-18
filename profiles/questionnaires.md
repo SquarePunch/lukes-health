@@ -4,6 +4,15 @@ This document contains lists of questions to help you continuously build and ref
 
 ## Psychological Profile Questions
 
+[//]: # (Add new psychological questions here)
+
+## Medical Profile Questions
+
+[//]: # (Add new medical questions here)
+
+## Nutrition Profile Questions
+
+[//]: # (Add new nutrition questions here)
 1. **SSRI Timeline:**
    - Exactly when did you restart taking your SSRI (Escitalopram 10mg) recently, and how long had you been off it prior to restarting?
 2. **Recent Substance Use & Mood Drops:**

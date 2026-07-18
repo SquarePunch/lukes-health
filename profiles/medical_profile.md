@@ -36,6 +36,8 @@
 ## Therapy & Preventative Care
 
 - **Therapy Stance:** Averse to traditional psychotherapy primarily due to financial cost and a preference for talking to people who know them intimately. The individual prefers interactions where friends/community actively challenge bad behaviors rather than simply offering comfort.
+- **Alternative Approaches:** Engages in discussions about psychology within a community setting, which includes the occasional, therapeutic use of mushrooms and LSD. Physical therapy (e.g., for back/shoulder) is also somewhat limited by financial concerns.
+- **Ergonomics:** Preventative care for spine/nerves includes using a standing desk and a vertical mouse.
 - **Alternative & Physical Therapy:** Engages in discussions about psychology within a community setting, which includes the occasional, therapeutic use of mushrooms and LSD. Physical therapy / massage is used to manage back, BWS, and shoulder issues. Lukas received 10-session massage therapies (Heilmassage, 50 min) in April 2025 (cost: €650) and April 2026 (cost: €800) from Peter Kastner to address HWS-, BWS-Syndrom.
 
 ## Sick Leave History (Krankenstände)
