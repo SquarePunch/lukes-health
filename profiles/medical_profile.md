@@ -28,9 +28,9 @@
 
 ## Current Conditions (July 2026)
 
-- **Sleep:** Recent severe insomnia (e.g., unable to sleep until 5 AM on July 16, despite normally getting tired around 23:00 on SSRIs). *Note: Insomnia is usually very rare.*
-- **Digestion:** Recent bouts of diarrhea/stomach distress (mid-July 2026).
-- **Energy:** Significant exhaustion; difficulty getting out of bed before noon recently.
+- **Sleep:** Recent severe insomnia (e.g., unable to sleep until 5 AM on July 16, despite normally getting tired around 23:00 on SSRIs). *Note: Insomnia is usually very rare but is a common symptom of acute Kratom and Cannabis withdrawal.*
+- **Digestion:** Recent bouts of diarrhea/stomach distress (mid-July 2026). *Note: This heavily correlates with acute Kratom withdrawal.*
+- **Energy:** Significant exhaustion; difficulty getting out of bed before noon recently. *Note: Fatigue and lack of energy are common during Kratom withdrawal, especially in the first week to weeks.*
 - **Blood Panel (April 2026):** Generally fine, aside from high cholesterol (~300 mg/dL, where <100 is ideal). This is notable given the paternal family history. The spike correlates with a period of high sweet intake, which has since been significantly reduced (currently mostly limited to sweet tea/Mate and rare energy drinks) as part of diet improvements. Historically, a blood panel in January 2022 showed Vitamin D deficiency (Vitamin D-Mangel).
 
 ## Therapy & Preventative Care

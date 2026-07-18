@@ -51,6 +51,8 @@ A consistent daily template ensures data is comparable over time.
 - **Overall Mood:** (e.g., 1-10 scale)
 - **Energy Levels:**
 - **Stress / Anxiety:**
+- **Substance Cravings / Withdrawal Symptoms:**
+- **Days Sober:**
 - **Subjective Notes (How I feel):**
 
 ## 📝 Other / General Notes
