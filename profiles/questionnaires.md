@@ -4,29 +4,23 @@ This document contains lists of questions to help you continuously build and ref
 
 ## Psychological Profile Questions
 
-1. **Occasional Cannabis Use:**
-   - You mentioned a desire to keep rare, occasional cannabis use because it feels manageable. Have you successfully maintained this kind of moderation in the past, and what specific rules or limits can you set to ensure it remains occasional?
-   in th epast i had a hard time to manage this. usually i was doing it for a few weeks then stopped for a few (less) weeks. but as i will have a regular job in the future and that i am not that often alone i wont have the chance to do it. usually i only do it when i have alone time since it usually acompanies masturbation
-2. **Teaching Job Meeting:**
-   - When is the introductory meeting for your teaching job scheduled? Is there a specific date you can anchor to, to help manage the uncertainty?
-   it is uncertain as i am waiting for somebody to tell me
-3. **Daily Routine & Morning Light:**
-   - Waking up earlier and getting morning light helped with anxiety. Can you establish a specific time to aim for waking up each day to build a consistent routine, and how feasible is it to maintain this in the long term?
-ill try
+1. **Alternative Activities During Alone Time:**
+   - As you'll have less alone time with the new job, what are some healthy, engaging activities you can easily turn to during the brief periods you are alone to avoid falling back into old habits (like masturbation/cannabis)?
+2. **Coping with Job Uncertainty:**
+   - The wait for the introductory meeting date is uncertain. Are there any small, concrete preparations or reading materials you can focus on right now to give yourself a sense of control and reduce background anxiety?
+3. **Tracking the Wake-up Routine:**
+   - You intend to aim for a specific wake-up time. What time are you aiming for, and what small reward or enjoyable activity can you schedule first thing in the morning to make waking up at that time more appealing?
+
 ## Medical Profile Questions
 
-1. **Upper Spine Mobility:**
-   - You mentioned having specific "crack moves" that help prevent your back from clogging up. Can you describe what these movements entail? Would incorporating a short, 5-minute daily mobility routine specifically targeting the upper back be manageable for you?
-   the moves i mean is usually tilting the head to the extreme left and right
-2. **Alternative Caffeine Sources:**
-   - Given the late-night insomnia when consuming Mate/coffee between 18:00 - 19:00, have you considered switching to caffeine-free alternatives (like decaf coffee or herbal tea) after a certain time, say 16:00? yes
-3. **Creatine Replacement:**
-   - Since you stopped creatine due to digestive issues but were using it for energy, are there other, gentler supplements (e.g., Vitamin B complex or Magnesium) you might be open to trying, or do you prefer to focus on diet and sleep for energy recovery? lets focus on diet and exercise
+1. **Refining the "Crack Moves":**
+   - You described your upper spine "crack moves" as tilting the head to the extreme left and right. Have you considered asking your massage therapist or a physical therapist if there are safer or more effective variations of these stretches to ensure you don't inadvertently strain your neck?
+2. **Caffeine-Free Alternatives:**
+   - You agreed to switch to caffeine-free alternatives after 16:00. What specific drinks (e.g., specific herbal teas, decaf coffee brands, or flavored water) will you keep stocked and easily accessible so the switch is effortless?
 
 ## Nutrition Profile Questions
 
-1. **Consistent Morning Solids:**
-   - Eating eggs or cornflakes before your first coffee seemed to help your stomach. Which of these is easier to consistently prepare and eat when you are feeling anxious or fatigued in the morning? usually i always had eggs which i found good. cornflakes are just easier when im not that hungry due to the more liquid
-2. **Protein Baseline Check:**
-   - Even without strict tracking, do you feel you are getting protein in at least two of your meals (e.g., eggs for breakfast, chicken for lunch)? If not, would it be helpful to have ready-to-drink protein shakes or bars available as an easy alternative to Huel?
-   i think i get enough. 
+1. **Optimizing Morning Solids:**
+   - Since eggs work best but cornflakes are easier when you're not hungry, is there a simple way to make eggs more appealing on low-appetite mornings, or a third, easy-to-digest option (like a banana or toast) that bridges the gap?
+2. **Exercise over Supplements:**
+   - Since you prefer to focus on exercise over new supplements for energy recovery, what is the smallest, most achievable form of exercise you can commit to daily (e.g., a 10-minute walk after lunch) to start building that routine without overwhelming yourself?
