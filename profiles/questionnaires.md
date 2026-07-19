@@ -4,46 +4,25 @@ This document contains lists of questions to help you continuously build and ref
 
 ## Psychological Profile Questions
 
-[//]: # (Add new psychological questions here)
+1. **Occasional Cannabis Use:**
+   - You mentioned a desire to keep rare, occasional cannabis use because it feels manageable. Have you successfully maintained this kind of moderation in the past, and what specific rules or limits can you set to ensure it remains occasional?
+2. **Teaching Job Meeting:**
+   - When is the introductory meeting for your teaching job scheduled? Is there a specific date you can anchor to, to help manage the uncertainty?
+3. **Daily Routine & Morning Light:**
+   - Waking up earlier and getting morning light helped with anxiety. Can you establish a specific time to aim for waking up each day to build a consistent routine, and how feasible is it to maintain this in the long term?
 
 ## Medical Profile Questions
 
-[//]: # (Add new medical questions here)
+1. **Upper Spine Mobility:**
+   - You mentioned having specific "crack moves" that help prevent your back from clogging up. Can you describe what these movements entail? Would incorporating a short, 5-minute daily mobility routine specifically targeting the upper back be manageable for you?
+2. **Alternative Caffeine Sources:**
+   - Given the late-night insomnia when consuming Mate/coffee between 18:00 - 19:00, have you considered switching to caffeine-free alternatives (like decaf coffee or herbal tea) after a certain time, say 16:00?
+3. **Creatine Replacement:**
+   - Since you stopped creatine due to digestive issues but were using it for energy, are there other, gentler supplements (e.g., Vitamin B complex or Magnesium) you might be open to trying, or do you prefer to focus on diet and sleep for energy recovery?
 
 ## Nutrition Profile Questions
 
-[//]: # (Add new nutrition questions here)
-1. **SSRI Timeline:**
-   - Exactly when did you restart taking your SSRI (Escitalopram 10mg) recently, and how long had you been off it prior to restarting?
-   stopped in may 26, restarted in june 26
-2. **Recent Substance Use & Mood Drops:**
-   - You mentioned having "a few crumbs of weed" today. Are you currently in a phase of tapering off Cannabis/Kratom, or was this a one-off after a period of sobriety? Can you provide a rough timeline of your substance use over the past 4-6 weeks?
-   i cant manage tapering off so i always need to go cold turkey for now at least. the weed is something which i would love to keep it but only at few ocasions. in contrast to kratom this is manageable for me i think. the use over last weeks: i thnkj i started with both again in may 28th - june 8th. then again only kratom from 19th june - june 26th. then kratom from july 9th - july 11th. then the weed crumbs on that day
-3. **Anxiety Patterns:**
-   - Your morning anxiety seems severe but improves by noon. Can you describe what the anxiety feels like right after waking up? Are there specific thoughts (e.g., about the upcoming teaching job) that trigger it immediately, or is it a purely physical feeling of dread before any thoughts form?
-   yes there are thoughts like the job but i dont think its actualöly coming from that rather than just triggered by my brain. it also got way better the last days (july 18 and 19th) but the fatigue remains. i tried to get up earlier the last days, managed 10:00 and had the window open from maybe 8:00 to get light early. both may helped. 
-4. **Teaching Job Preparation:**
-   - Have you started preparing the material for your teaching job in September? If so, does the act of preparing relieve or exacerbate your anxiety? If not, what specific fear is holding you back from starting?
-   i am still waiting for an introductionary meeting to get all info i need. thus i dont want to do too much now. im pretty confident that i get it done. 
-5. **Support System:**
-   - Have you explicitly shared your fears about the teaching job and your recent mental health dip with any close friends or family members? If not, what is preventing you from opening up?
-yes i did to both parties
-## Medical Profile Questions
-
-1. **Insomnia & Caffeine Timing:**
-   - To help understand the recent severe insomnia, at what time of day do you usually consume your last caffeinated beverage (Mate or coffee)?
-   18:00 - 19:00 and had that insomnia again on 18th july. both on 16th and 18th i tried to do more exercise and keep my body going to get out of the slump
-2. **Ergonomic Follow-up:**
-   - Since you have a sit-stand desk and vertical mouse, do you still experience the shoulder/ulnaris nerve pain currently, or has it subsided with these preventative measures?
-
-   its not hurting but i get this kribbeln in the arms (dont know the english word) sometimes and the upper spine cracks a lot when moving it. i feel like there are specific crack moves i need to do to prevent it from clogging up again
-3. **Caffeine on an Empty Stomach:**
-   - You frequently report drinking large coffees and Club Mate before eating solid food, which can spike cortisol and cause stomach issues. How difficult would it be for you to consume at least a small amount of solid food (e.g., a piece of fruit or bread) before your first caffeinated drink?
-   did this on 18th and 19th. ate 2 eggs on 18th and connflakes on 19th wehn woke up. stopped with creatine as i suspect this do be responsible for diarhea maybe
-4. **Gastrointestinal Symptoms:**
-   - Regarding your recent bouts of diarrhea and stomach distress: Do you notice these symptoms correlating more strongly with days of high anxiety, or with days where you consume coffee/SSRI on an empty stomach?
-
-## Nutrition Profile Questions
-
-1. **Protein Tracking Setup:**
-   - For a quick 3-day protein estimation: You can use a free app like MyFitnessPal or Cronometer. Just log what you eat for 3 typical days (don't change your habits, just log them). Would you prefer to do this on your phone, or should we create a simple Markdown table in your daily logs for you to fill out manually?
+1. **Consistent Morning Solids:**
+   - Eating eggs or cornflakes before your first coffee seemed to help your stomach. Which of these is easier to consistently prepare and eat when you are feeling anxious or fatigued in the morning?
+2. **Protein Baseline Check:**
+   - Even without strict tracking, do you feel you are getting protein in at least two of your meals (e.g., eggs for breakfast, chicken for lunch)? If not, would it be helpful to have ready-to-drink protein shakes or bars available as an easy alternative to Huel?
