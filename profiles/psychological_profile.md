@@ -23,12 +23,14 @@
 - **Mid-2025:** Depressive episode with panic attacks following 5 weeks of sobriety from Kratom/Cannabis. Symptoms: Waking up in fear in the morning, mood improving over the day, feeling normal by the evening.
 - **Early 2026:** Another depressive episode leading to quitting the 25h/week job (occurred despite being on SSRI).
 - **Mid-2026:** Relapsed into depression due to self-employment stress after stopping SSRI in April 2026.
-- **Current State (July 2026):** Morning anxiety returned. Feeling exhausted but not entirely depressed. Mood typically improves by noon.
+- **Mid-2026 SSRI & Relapse Timeline:** Stopped SSRI (Escitalopram 10mg) on May 26, 2026. Restarted on June 26, 2026, after a relapse triggered by self-employment stress and substance use.
+- **Current State (July 2026):** Morning anxiety returned but has been improving (mid-July) with adjustments like waking up earlier (10:00) and getting early morning light (window open from 8:00). Anxiety is not directly caused by thoughts of the upcoming teaching job (which is pending an introductory meeting) but feels more like a physically triggered state. Feeling exhausted/fatigued but not entirely depressed. Mood typically improves by noon.
 - **Physical Symptoms:** Panic attacks or anxiety are preceded by increased heart rate and chest pressure. Depressive drops and anxiety both come with a lack of energy and hunger.
 
 ## Coping Mechanisms
 
 - Historically relied on Cannabis and Kratom for stress/anxiety relief and confidence. Stopped weed end of 2020 briefly, but relapsed into weed and later Kratom after a year of self-employment.
+  - **Substance Use Patterns (Mid-2026):** Relapsed into Kratom and Cannabis (May 28 - June 8). Kratom only (June 19 - June 26). Kratom only (July 9 - July 11), followed by a minor weed usage on July 11. Tapering off is unmanageable; cessation requires going cold turkey. Would like to maintain rare, occasional Cannabis use, as it feels more manageable than Kratom.
   - **Kratom Note:** Makes the user feel the way they want to be (not overthinking, always in a good mood, confident, energetic, and able to do stuff all day). However, on longer episodes, it causes nervousness, feeling "too pushy", and entering an overdrive state. Kratom was also used to maintain productivity while self-employed, but led to bad decisions and ineffectiveness.
 - Masturbation (usually daily, often combined with weed or Kratom; on Kratom this could be excessive for hours, usually stops when stopping drugs, but also recognized as a minor coping mechanism even otherwise). Developed a morning habit of doing this (gooning) while alone before lunch during self-employment and the 2024 job (spent at an empty old house, gone since early 2026). Currently not alone in the mornings due to public summer holidays.
 - **Healthy Coping Mechanisms:** Exercise (especially flowarts, poi spinning, staff), walking. Flow arts is currently practiced rarely (~once a week for short periods); it temporarily improves mood but is limited by a lack of energy.
@@ -45,7 +47,7 @@
 - Pre-2022: Experiences brought a shift in values (more connected to nature/people) and provided energy for dancing.
 - Post-2022: Experiences became physically draining and mostly introspective (requiring lying down).
 - June 2026 Experience: Realized a feeling of total lost connection to people and the need to open up more again.
-- Integration Practice: Sitting together with friends post-trip to talk about the experiences.
+- Integration Practice: Sitting together with friends post-trip to talk about the experiences. Have actively shared fears about the new teaching job and the recent mental health dip with close friends and family, indicating a functional support system.
 
 ## Goals & Boundaries
 
